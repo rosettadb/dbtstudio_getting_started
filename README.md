@@ -65,7 +65,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ## How to Use This
 
-1. ** Download [**DBTStudio**](https://github.com/rosettadb/dbt-studio/releases)**
+1. **Download [**DBTStudio**](https://github.com/rosettadb/dbt-studio/releases)**
 
 
 2. **Open DBTStudio**\
@@ -117,9 +117,9 @@ getting-started/
 
 ## Acknowledgements
 
-- 🛆 Powered by [RosettaDB](https://github.com/AdaptiveScale/rosetta)
--   Built for dbt-core lovers and productivity seekers
--   Inspired by the modern data stack
+- 🛆Powered by [RosettaDB](https://github.com/AdaptiveScale/rosetta)
+-  Built for dbt-core lovers and productivity seekers
+-  Inspired by the modern data stack
 
 ---
 
