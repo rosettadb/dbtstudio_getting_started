@@ -1,25 +1,25 @@
-# 🎓 DBTStudio - Getting Started Sample Project
+# DBTStudio - Getting Started Sample Project
 
-Welcome to the **Getting Started** project for [**DBTStudio**]([https://github.com/your-org/dbtstudio](https://github.com/rosettadb/dbt-studio)) — a visual interface for **dbt-core** powered by the magic of [**RosettaDB**](https://github.com/AdaptiveScale/rosetta)!
+Welcome to the **Getting Started** project for [**DBTStudio**](https://github.com/rosettadb/dbt-studio) — a visual interface for **dbt-core** powered by the magic of [**RosettaDB**](https://github.com/AdaptiveScale/rosetta)!
 
 This sample project provides you with a lightweight, ready-to-use **DuckDB** database to kick off your data modeling journey. It's designed to help you explore DBTStudio’s capabilities for generating **staging**, **enhanced**, and **business** layer dbt models with a few simple clicks.
 
 ---
 
-## 🚀 What You’ll Get With DBTStudio
+## What You’ll Get With DBTStudio
 
-- ✅ A pre-built **DuckDB** sample database with real-world academic data structures
-- ✅ Auto-generated **staging**, **enhanced**, and **business** models via **RosettaDB**
-- ✅ One-click execution of **dbt-core** commands directly from the UI
-- ✅ A perfect playground to understand how DBTStudio speeds up your analytics workflow
+-  A pre-built **DuckDB** sample database with real-world academic data structures
+-  Auto-generated **staging**, **enhanced**, and **business** models via **RosettaDB**
+-  One-click execution of **dbt-core** commands directly from the UI
+-  A perfect playground to understand how DBTStudio speeds up your analytics workflow
 
 ---
 
-## 🏗️ Sample Schema Overview
+##  Sample Schema Overview
 
 This demo simulates a basic university database system. Here are the four core tables included in the sample project:
 
-### 📘 `students`
+### `students`
 
 | Column            | Type    | Description                |
 | ----------------- | ------- | -------------------------- |
@@ -30,7 +30,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-### 📚 `courses`
+### `courses`
 
 | Column       | Type    | Description                     |
 | ------------ | ------- | ------------------------------- |
@@ -41,7 +41,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-### 📝 `enrollments`
+### `enrollments`
 
 | Column          | Type    | Description                  |
 | --------------- | ------- | ---------------------------- |
@@ -52,7 +52,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-### 🏆 `grades`
+### `grades`
 
 | Column          | Type    | Description                    |
 | --------------- | ------- | ------------------------------ |
@@ -63,26 +63,23 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-## ✨ How to Use This
+## How to Use This
 
-1. **Clone this Repository**
+1. ** Download [**DBTStudio**](https://github.com/rosettadb/dbt-studio/releases)**
 
-   ```bash
-   git clone https://github.com/your-org/dbtstudio-getting-started](https://github.com/rosettadb/dbtstudio_getting_started.git
-   ```
 
 2. **Open DBTStudio**\
-   Launch DBTStudio and open this project folder.
+   Launch DBTStudio and create a new project by cloning this repository.
+   ```bash
+    https://github.com/rosettadb/dbtstudio_getting_started.git
+   ```
 
-3. **Connect a Data Source**\
-   Use the UI to link the included DuckDB file or any other database you wish to test.
-
-4. **Generate Models with Rosetta**
+3. **Generate Models with Rosetta**
 
    - Select tables and generate **staging**, **enhanced**, or **business** models with one click.
    - Explore the automatically created `.sql` files in your dbt models directory.
 
-5. **Run dbt Commands Visually**\
+4. **Run dbt Commands Visually**\
    Use the **"dbt actions"** panel to:
 
    - Run models (`dbt run`)
@@ -91,7 +88,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-## 🧪 Ideal For
+## Ideal For
 
 - New users trying dbt for the first time
 - Teams adopting DBTStudio in modern data workflows
@@ -100,7 +97,7 @@ This demo simulates a basic university database system. Here are the four core t
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 getting-started/
@@ -118,11 +115,11 @@ getting-started/
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 - 🛆 Powered by [RosettaDB](https://github.com/AdaptiveScale/rosetta)
-- 🛠 Built for dbt-core lovers and productivity seekers
-- ❤️ Inspired by the modern data stack
+-   Built for dbt-core lovers and productivity seekers
+-   Inspired by the modern data stack
 
 ---
 
