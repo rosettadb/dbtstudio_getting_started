@@ -58,7 +58,7 @@ This demo simulates a basic university database system. Here are the four core t
 | --------------- | ------- | ------------------------------ |
 | `grade_id`      | INTEGER | Unique ID for the grade entry  |
 | `enrollment_id` | INTEGER | Links to the enrollment record |
-| `grade`         | TEXT    | Letter grade (A, B, etc.)      |
+| `grade`         | INTEGER    | Value grade (10, 9, etc.)      |
 | `date_recorded` | DATE    | When the grade was recorded    |
 
 ---
